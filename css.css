@@ -1,0 +1,160 @@
+.navbar {
+    background-image: url('https://skygarden.london/wp-content/uploads/2023/01/Larch-Tasting-0084-1-3840x2160.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.home-link {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+#search {
+    margin-left: 1250px;
+}
+
+.section__title--primary {
+    margin-top: 50px;
+    padding-top: 40px;
+}
+
+.pietus {
+    padding-top: 60px;
+}
+
+.sventines {
+    padding-top: 60px;
+}
+
+.sefai {
+    padding-top: 60px;
+}
+
+.komanda {
+    padding-top: 60px;
+}
+
+.section__title--secondary {
+    margin-top: 10px;
+}
+
+.section__title--third {
+    margin-top: 10px;
+}
+
+.section__title--forth {
+    margin-top: 10px;
+}
+
+.section__title--fifth {
+    margin-top: 10px;
+}
+
+.section__title--sixth {
+    margin-top: 10px;
+}
+
+.article__img--primary {
+    width: 400px;
+    height: 500px;
+}
+
+.article__text--primary {
+    margin-left: 30px;
+}
+
+.article__img--secondary {
+    width: 400px;
+    height: 500px;
+}
+
+.article__text--secondary {
+    margin-right: 30px;
+}
+
+.article__img--third {
+    width: 400px;
+    height: 500px;
+}
+
+.article__text--third {
+    margin-left: 30px;
+}
+
+.article__text--forth {
+    margin-right: 30px;
+}
+
+.article__img--forth {
+    width: 400px;
+    height: 500px;
+}
+
+.pietus {
+    margin-top: 10px;
+}
+
+.pietu__img--primary {
+    height: 300px;
+}
+
+.pietu__img--secondary {
+    height: 300px;
+}
+
+.pietu__img--third {
+    height: 300px;
+}
+
+.pietu__img--forth {
+    height: 300px;
+}
+
+.pietu__img--fifth {
+    height: 300px;
+}
+
+.pietu__img--sixth {
+    height: 300px;
+}
+
+.carousel-inner img {
+    max-width: 100%;
+    height: auto;
+    max-height: 600px;
+}
+
+.chef {
+    height: 430px;
+}
+
+.susisiekite {
+    margin-bottom: 20px;
+    padding-top: 60px;
+}
+
+.form__button--primary {
+    background-color: lightskyblue;
+    color: white;
+    border-radius: 5px;
+}
+
+.footer__img--primary {
+    background-image: url('https://www.mowglistreetfood.com/wp-content/uploads/2023/01/Landing_image_Desktop.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+}
+
+.footer__text--primary {
+    padding-top: 80px;
+    color: chartreuse;
+}
